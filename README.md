@@ -2,6 +2,13 @@
 
 A web application built with Flask for uploading PDF files and interacting with them through a chat interface. Users can upload a PDF, which is processed and stored. Once uploaded, users can query the content of the PDF, and the system will provide relevant answers based on the content.
 
+
+<img width="743" alt="Schermata 2024-08-18 alle 18 32 30" src="https://github.com/user-attachments/assets/36656aef-03cd-4dd4-a088-90fe3c9e23a0">
+
+
+<img width="637" alt="Schermata 2024-08-18 alle 18 33 06" src="https://github.com/user-attachments/assets/c69adf1e-5736-4096-911a-1548b9b60839">
+
+
 ## Features
 
 #### Document Processing and Vector Store
